@@ -1,4 +1,4 @@
-Hi, I'm Braedon, a Kiwi software developer. Currently I'm busy building a [privacy focused authentication provider](https://projectalias.com).
+Hi, I'm Braedon, a Kiwi software developer. Currently I'm busy building [Alias, a privacy focused authentication provider](https://projectalias.com).
 
 When I'm not thinking too much about web privacy, I maintain a few open source services and tools.
 
